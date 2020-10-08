@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "book_tutorial_async/1.0.0": {
+        "runtime": {
+          "book_tutorial_async.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "book_tutorial_async/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

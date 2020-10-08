@@ -1,0 +1,13 @@
+C:\Users\79823\source\repos\book_tutorial_async\book_tutorial_async\bin\Debug\netcoreapp3.1\book_tutorial_async.exe
+C:\Users\79823\source\repos\book_tutorial_async\book_tutorial_async\bin\Debug\netcoreapp3.1\book_tutorial_async.deps.json
+C:\Users\79823\source\repos\book_tutorial_async\book_tutorial_async\bin\Debug\netcoreapp3.1\book_tutorial_async.runtimeconfig.json
+C:\Users\79823\source\repos\book_tutorial_async\book_tutorial_async\bin\Debug\netcoreapp3.1\book_tutorial_async.runtimeconfig.dev.json
+C:\Users\79823\source\repos\book_tutorial_async\book_tutorial_async\bin\Debug\netcoreapp3.1\book_tutorial_async.dll
+C:\Users\79823\source\repos\book_tutorial_async\book_tutorial_async\bin\Debug\netcoreapp3.1\book_tutorial_async.pdb
+C:\Users\79823\source\repos\book_tutorial_async\book_tutorial_async\obj\Debug\netcoreapp3.1\book_tutorial_async.csprojAssemblyReference.cache
+C:\Users\79823\source\repos\book_tutorial_async\book_tutorial_async\obj\Debug\netcoreapp3.1\book_tutorial_async.csproj.CoreCompileInputs.cache
+C:\Users\79823\source\repos\book_tutorial_async\book_tutorial_async\obj\Debug\netcoreapp3.1\book_tutorial_async.AssemblyInfoInputs.cache
+C:\Users\79823\source\repos\book_tutorial_async\book_tutorial_async\obj\Debug\netcoreapp3.1\book_tutorial_async.AssemblyInfo.cs
+C:\Users\79823\source\repos\book_tutorial_async\book_tutorial_async\obj\Debug\netcoreapp3.1\book_tutorial_async.dll
+C:\Users\79823\source\repos\book_tutorial_async\book_tutorial_async\obj\Debug\netcoreapp3.1\book_tutorial_async.pdb
+C:\Users\79823\source\repos\book_tutorial_async\book_tutorial_async\obj\Debug\netcoreapp3.1\book_tutorial_async.genruntimeconfig.cache
